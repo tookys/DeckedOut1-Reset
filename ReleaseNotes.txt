@@ -1,0 +1,43 @@
+Current changelog for anyone curious. Does contain spoilers!
+
+Changelog: Rule Changes:
+-Common/Uncommon artifacts can be traded in. Rares and uniques can, but will not offer a chance at a coin/key.
+Additions:
+-Lodestone Compass waterstream return system implemented
+
+Quality of Life:
+-All Lodestone Lootbox Token Droppers Refilled (each dropper now contains 144 Loot Box Tokens)
+-Decked Out Door Reset Mechanism refilled (good for up to 576 runs without being reset)
+-Restocked Black Market's "Lucky Coin" game rewards (128 Beast Bites, 128 Roast Beast, 64 Decked Out Keys, 48 Teleportation Orbs, 16 Loot Box tokens)
+-Run reward book droppers refilled (48x each card for Tier 1, 32x each card for Tier 2, 16x each card Tier 3)
+-All Loot Finder barrel mechanisms refilled with Decked Out Coins (576 coins per)
+-All Soul Flame mechanisms refilled with Fire Charges (576 fire charges per)
+-Lobby cleaned up (all chests/barrels emptied, extra chests removed, hermit heads removed)-Key Countdown dropper refilled (contains 576 keys)
+-Tier 2/Tier 3 book trade in dropper refilled with 16 of each book
+-Artifact trade in reward dropper refilled (512 coins & 64 keys). Common/uncommons added for new sets; all rares removed.
+-2 Extra Scoreboards removed from main stairway
+-Mountain raised to prevent getting on canopy top (nothing up there anyway) -Loot box token trade-in chest (with used tokens) emptied
+
+Bug Fixes:!<
+-Named villager added to end of village return system to lure ravagers towards bubblevator
+Includes following sets in loot boxes (3/4 per loot box) in 8/4/2/1 quantities going common, uncommon, rare, unique): Dragon Set: Obsidian, End Crystal, Dragon's Breath, Dragon's Head
+Wither Set: Soul Sand, Wither Rose, Wither Head, Nether Star
+Ocean Set: Sea Pickle, Sea Lantern, Sponge, Heart Of The Sea
+End Set: End Rod, Eye Of Ender, Ender Chest, Shulker Head
+Nether Set: Glowstone, Shroomlight, Ancient Debris, Respawn Anchor (Micro Block)Shiny Set: Lapis Lazuli Block, Gold Block, Emerald Block, Diamond Block
+Bee Set: Honey Block, Honeycomb, Beehive, Angry Bee Head
+Witch Set: Nether Wart, Cauldron, Brewing Stand, Witch Head
+Enchantment Set: Lapis Lazuli, Bookshelf, Bottle O' Enchanting, Enchanting Table
+Poison Set: Rotten Flesh, Spider Eye, Pufferfish, Poisonous Potato
+Villager Set: Hay Bales, Anvil, Bell, Iron Golem Head
+Snowman Set: Stick, Snow block, Carrot, Snow Golem Head
+Baking Set: Bread, Furnace, Cocoa Beans, Pumpkin Pie
+Desert Set: Chiseled Sandstone, Cactus, Dead Bush, Husk Head
+Jungle Set: Bamboo, Vines, Melon, Parrot Head
+Poultry Set: Feather, Egg, Cooked Chicken, Chicken Head
+Boomer Set: Gunpowder, Rocket, TNT, Boomer Map (Changed to Minecart with TNT)
+
+New Sets:
+Swamp Set: Lily Pad, Clay, Blue Orchid, Slime Head
+Turtle Set: Seagrass, Turtle Egg, Scute, Tutrle Head
+Redstone Set: Redstone Dust, Comparator, Observer, Target Mini Block!
