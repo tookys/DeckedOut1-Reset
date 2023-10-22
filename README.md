@@ -9,31 +9,31 @@ If you are deploying this to a server, there is the risk that all the compasses 
 
 Big new additions / updates since v1.0
 - Redstone showcase
-- - each of the mechanisms in the dungeon gas been rebuilt in a showcase region to show how they all work.
-- - to see the showcase area, go down to the dungeon entrance turn right, to the item exchange, enter the doors on the right, and go all the way down the hall way.
+  - each of the mechanisms in the dungeon gas been rebuilt in a showcase region to show how they all work.
+  - to see the showcase area, go down to the dungeon entrance turn right, to the item exchange, enter the doors on the right, and go all the way down the hall way.
  
 - black market randomizer
-- - the black market has been updated with a cactus random pulse generator. each shop in the market is able to be used without restocking but each slot is randomly locked so you have no way of knowing what will be available when you enter (they are indicated with lights to show when is is open or not) market status doesn't update until player completely leaves the market or resets the dungeon. 
+  - the black market has been updated with a cactus random pulse generator. each shop in the market is able to be used without restocking but each slot is randomly locked so you have no way of knowing what will be available when you enter (they are indicated with lights to show when is is open or not) market status doesn't update until player completely leaves the market or resets the dungeon. 
  
 - Puffer Player Detector (ppd)
-- - ppd has been updated to use gold pressure plates as the stone pressure plates were causing clank spam in 1.19
+  - ppd has been updated to use gold pressure plates as the stone pressure plates were causing clank spam in 1.19
  
 - resistance beacon re-enabled
-- - the resistance beacon had become blocked during hermitcraft season 7 and was still blocked in the v1.0 reset release.
+  - the resistance beacon had become blocked during hermitcraft season 7 and was still blocked in the v1.0 reset release.
 
 - compass dispenser update
-- - in v1.0 the compasses were in a queue of hopper but this would cause the same 14 to cycle through, but the other 20 would never get pulled, now uses droppers so all compasses get cycled over time.
+  - in v1.0 the compasses were in a queue of hopper but this would cause the same 14 to cycle through, but the other 20 would never get pulled, now uses droppers so all compasses get cycled over time.
 
 - water hazard
-- - since vex are no longer effective at killing several water hazards have been added near evoker sentries. the water hazards are only deployed when player reaches max clank.
+  - since vex are no longer effective at killing, several water hazards have been added near evoker sentries. the water hazards are only deployed when player reaches max clank.
 
 - loot finder boxes
-- - a couple new chests were added that respond to the loot finder card to help encourage exploration and make it so more stashes are around that don't require restoking (new loot finder chests have a mix of items that can be found besides just tokens),
-- - old loot finders are all token only.
+  - a couple chests were changed to work with the loot finder card to help encourage exploration and make it so more stashes are around that don't require restoking (new loot finder chests have a mix of items that can be found besides just tokens),
+  - old loot finders are all token only.
 
-Current bugs
-- Skelton and zombie spawners are disabled.
-- - since the mob spawning rules changed to require a light level of 1 instead of 7 the mob spanners no longer function and would require more changes to the map than I feel would keep the original plan.
+- Mob Spawners
+  - since mob spawn conditions changed the zombie and skeleton spawners were no longer working. To fix this the lighting in the gravyard and sentry towers were adjusted.
+  - spawning works again but the graveyard is alot darker, and there is now tinted glass aroudn the sentry tower.
  
 
   
