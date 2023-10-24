@@ -1,4 +1,4 @@
-This is DeckedOut1:Reset a updated version of TangoTeks original decked out map.
+This is DeckedOut:ResetV1.02 a updated version of TangoTeks original decked out map.
 
 With Deckedout2 running on the season 9 hermitcraft server I figured now was a good time to update the old map and update a few features.
 
@@ -24,9 +24,6 @@ Big new additions / updates since v1.0
 - compass dispenser update
   - in v1.0 the compasses were in a queue of hopper but this would cause the same 14 to cycle through, but the other 20 would never get pulled, now uses droppers so all compasses get cycled over time.
 
-- water hazard
-  - since vex are no longer effective at killing, several water hazards have been added near evoker sentries. the water hazards are only deployed when player reaches max clank.
-
 - loot finder boxes
   - a couple chests were changed to work with the loot finder card to help encourage exploration and make it so more stashes are around that don't require restoking (new loot finder chests have a mix of items that can be found besides just tokens),
   - old loot finders are all token only.
@@ -35,5 +32,7 @@ Big new additions / updates since v1.0
   - since mob spawn conditions changed the zombie and skeleton spawners were no longer working. To fix this the lighting in the gravyard and sentry towers were adjusted.
   - spawning works again but the graveyard is alot darker, and there is now tinted glass aroudn the sentry tower.
  
-
-  
+Future Imrpovements
+- water hazard
+  - since vex are no longer effective at killing, several water hazards have been added near evoker sentries. the water hazards are only deployed when player reaches max clank.
+  - I tried ti implement it for the current version, but it is inconsistant with triggering causing it to be on or off at the wrong time.
